@@ -1,4 +1,4 @@
-### Welcome to Nguyen Thai Lam github page
+## Welcome to Nguyen Thai Lam github page
 
 I am currently a full-time Android Developer so most of my work are in private gitlab repositories.
 However, I managed to use my free time to work on personal projects in order to improve myself as a software developer
@@ -7,9 +7,9 @@ Feel free to check out my repositories and leave some starts and suggestions.
 <br />
 <br />
 
-### Languages and tools
+## Languages and tools
 
-## Languages
+### Languages
 
 <img align="left" alt="kotlin" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
 <img align="left" alt="java" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
@@ -17,7 +17,7 @@ Feel free to check out my repositories and leave some starts and suggestions.
 
 <br />
 
-## Tools + frameworks
+### Tools + frameworks
 
 <img align="left" alt="android" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" alt="spring" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
@@ -27,11 +27,12 @@ Feel free to check out my repositories and leave some starts and suggestions.
 <br />
 <br />
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="linkedIn" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 [<img align="left" alt="facebook" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 <br />
 Email: ngthailam98@gmail.com
 <br />
