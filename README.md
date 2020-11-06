@@ -11,18 +11,18 @@ Feel free to check out my repositories and leave some starts and suggestions.
 
 ## Languages
 
-[<img align="left" alt="kotlin" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][kotlin]
-[<img align="left" alt="java" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
-[<img align="left" alt="python" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+<img align="left" alt="kotlin" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
+<img align="left" alt="java" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="python" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
 <br />
 
 ## Tools + frameworks
 
-[<img align="left" alt="android" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][android]
-[<img align="left" alt="spring" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />][spring]
-[<img align="left" alt="bitrise" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitrise.svg" />][bitrise]
-[<img align="left" alt="gradle" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][gradle]
+<img align="left" alt="android" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+<img align="left" alt="spring" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
+<img align="left" alt="bitrise" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitrise.svg" />
+<img align="left" alt="gradle" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />
 
 <br />
 <br />
@@ -32,7 +32,9 @@ Feel free to check out my repositories and leave some starts and suggestions.
 [<img align="left" alt="linkedIn" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 [<img align="left" alt="facebook" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 Email: ngthailam98@gmail.com
+<br />
 Phone number: (+84) 92 569 6869
 
 <br />
