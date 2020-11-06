@@ -4,8 +4,15 @@ I am currently a full-time Android Developer so most of my work are in private g
 However, I managed to use my free time to work on personal projects in order to improve myself as a software developer
 Feel free to check out my repositories and leave some starts and suggestions.
 
-<br />
-<br />
+## Featured projects
+
+:point_right: [[Android] Generic Recycler view adapter](https://github.com/ngthailam/-Android-GenericListAdapter)
+
+:point_right: [[Android] Custom view star rating](https://github.com/ngthailam/-Android-GenericListAdapter)
+
+:point_right: [[Spring] Stocks management system](https://github.com/ngthailam/-Android-GenericListAdapter)
+
+:tada: [See full ...](https://github.com/ngthailam?tab=repositories)
 
 ## Languages and tools
 
