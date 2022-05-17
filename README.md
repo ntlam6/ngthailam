@@ -1,16 +1,19 @@
 ## Welcome to Nguyen Thai Lam github page
 
-I am currently a full-time Android Developer so most of my work are in private gitlab repositories.
-However, I managed to use my free time to work on personal projects in order to improve myself as a software developer
-Feel free to check out my repositories and leave some starts and suggestions.
+Hi, I am a full-time Flutter/Android developer (IOS in the future maybe :?). 
+This github contains my personal Flutter and Android projects.
+Feel free to check out my repositories and leave some comments and suggestions.
 
 ## Featured projects
+
+:point_right: [[Flutter] PassSaver App](https://github.com/ngthailam/flutter_password_saver)
+
+:point_right: [[Flutter] App shortcut plugin](https://github.com/ngthailam/flutter_app_short_cut)
 
 :point_right: [[Android] Generic Recycler view adapter](https://github.com/ngthailam/-Android-GenericListAdapter)
 
 :point_right: [[Android] Custom view star rating](https://github.com/ngthailam/-Android-GenericListAdapter)
 
-:point_right: [[Spring] Stocks management system](https://github.com/ngthailam/-Android-GenericListAdapter)
 
 :tada: [See full ...](https://github.com/ngthailam?tab=repositories)
 
