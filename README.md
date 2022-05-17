@@ -1,7 +1,9 @@
 ## Welcome to Nguyen Thai Lam github page
 
 Hi, I am a full-time Flutter/Android developer (IOS in the future maybe :?). 
+<br />
 This github contains my personal Flutter and Android projects.
+<br />
 Feel free to check out my repositories and leave some comments and suggestions.
 
 ## Featured projects
