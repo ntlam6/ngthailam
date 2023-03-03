@@ -40,10 +40,9 @@ Feel free to check out my repositories and leave some comments and suggestions.
 
 ## Connect with me
 
-[<img align="left" alt="linkedIn" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
+<p>
+  <a href="https://www.linkedin.com/in/ngthailam/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-<br />
-<br />
-Email: ngthailam98@gmail.com
-
-[linkedIn]: https://www.linkedin.com/in/l%C3%A2m-nguy%E1%BB%85n-th%C3%A1i-2936081a4/
