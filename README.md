@@ -4,7 +4,7 @@
 
 ## :sunglasses: About me 
 
-I have been a fulltime Android/Flutter Developer for more than 4 years. I have participated in the development of mobile apps of different sizes, accross fields such as E-commerce, Payment, Warehouse management, Ride hailing, etc.
+I have been a fulltime **Android/Flutter Developer** for more than 4 years. I have participated in the development of mobile apps of different sizes, accross fields such as E-commerce, Payment, Warehouse management, Ride hailing, etc.
 
 My strength is my ability to find the balance between technical and business side of a product, as I am keen on studying and understanding both code writing and the process of product development.
 
