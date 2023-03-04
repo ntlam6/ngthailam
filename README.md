@@ -2,15 +2,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-## About me :sunglasses:
+## :sunglasses: About me 
 
 I have been a fulltime Android/Flutter Developer for more than 4 years. I have participated in the development of mobile apps of different sizes, accross fields such as E-commerce, Payment, Warehouse management, Ride hailing, etc.
 
 My strength is my ability to find the balance between technical and business side of a product, as I am keen on studying and understanding both code writing and the process of product development.
-
-## Featured projects
-
-
 
 
 ## :trophy: Achievements:
@@ -20,6 +16,14 @@ My strength is my ability to find the balance between technical and business sid
 <img align="left" src="https://github.com/ngthailam/ngthailam/blob/master/icons8-scrum-64.png" width="50px"><h5>Professional scrum master I (PSM I)</h5>
 
 <br/>
+
+## :blue_book: Featured projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=flutter_app_short_cut)](https://github.com/ngthailam/flutter_app_short_cut) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=flutter_password_saver)](https://github.com/ngthailam/flutter_password_saver)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=android-generic-listadapter)](https://github.com/ngthailam/android-generic-listadapter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=android-star-rating-view
+)](https://github.com/ngthailam/android-star-rating-view)
+
 
 ## :robot: Languages and Tools: 
 
