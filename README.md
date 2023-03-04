@@ -27,6 +27,15 @@ My strength is my ability to find the balance between technical and business sid
 
 ## :robot: Languages and Tools: 
 
+<img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-android-os-48.png"  width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-flutter-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-github-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-google-firebase-console-48.png" width="50px" />
+
+<br/>
+
+<img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-visual-studio-code-2019-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-android-studio-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-xcode-48.png" width="50px">
+
+
+<br/>
+
 <h3 align="center"> Connect with me </h3>
 
 <p align="center">
