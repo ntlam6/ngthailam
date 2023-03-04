@@ -1,4 +1,4 @@
-# Hello there I am Nguyễn Thái Lâm 👋
+# Hello, I'm Nguyễn Thái Lâm 👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
