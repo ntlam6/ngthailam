@@ -10,20 +10,16 @@ My strength is my ability to find the balance between technical and business sid
 
 ## Featured projects
 
-:point_right: [[Flutter] PassSaver App](https://github.com/ngthailam/flutter_password_saver)
-
-:point_right: [[Flutter] App shortcut plugin](https://github.com/ngthailam/flutter_app_short_cut)
-
-:point_right: [[Android] Generic Recycler view adapter](https://github.com/ngthailam/-Android-GenericListAdapter)
-
-:point_right: [[Android] Custom view star rating](https://github.com/ngthailam/-Android-GenericListAdapter)
 
 
-:tada: [See full ...](https://github.com/ngthailam?tab=repositories)
 
 ## :trophy: Achievements:
 
+<img align="left" src="https://github.com/ngthailam/ngthailam/blob/master/icons8-ielts-48.png" width="50px"><h5>IELTS 8.0</h5>
+<br/>
+<img align="left" src="https://github.com/ngthailam/ngthailam/blob/master/icons8-scrum-64.png" width="50px"><h5>Professional scrum master I (PSM I)</h5>
 
+<br/>
 
 ## :robot: Languages and Tools: 
 
