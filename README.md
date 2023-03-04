@@ -1,10 +1,12 @@
-## Welcome to Nguyen Thai Lam github page
+# Hello there I am Nguyễn Thái Lâm 👋
 
-Hi, I am a full-time Flutter/Android developer (IOS in the future maybe :?). 
-<br />
-This github contains my personal Flutter and Android projects.
-<br />
-Feel free to check out my repositories and leave some comments and suggestions.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
+## About me :sunglasses:
+
+I have been a fulltime Android/Flutter Developer for more than 4 years. I have participated in the development of mobile apps of different sizes, accross fields such as E-commerce, Payment, Warehouse management, Ride hailing, etc.
+
+My strength is my ability to find the balance between technical and business side of a product, as I am keen on studying and understanding both code writing and the process of product development.
 
 ## Featured projects
 
@@ -19,26 +21,13 @@ Feel free to check out my repositories and leave some comments and suggestions.
 
 :tada: [See full ...](https://github.com/ngthailam?tab=repositories)
 
-## Languages and tools
+## :trophy: Achievements:
 
-### Languages
 
-<img align="left" alt="kotlin" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
-<img align="left" alt="java" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="python" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />
 
-<br />
+## :robot: Languages and Tools: 
 
-### Tools + frameworks
-
-<img align="left" alt="android" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
-<img align="left" alt="spring" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
-<img align="left" alt="gradle" height="22px" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-
-<br />
-<br />
-
-<h3 align="center"> Connect with me 🤝 </h3>
+<h3 align="center"> Connect with me </h3>
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
