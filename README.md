@@ -17,14 +17,6 @@ My strength is my ability to find the balance between technical and business sid
 
 <br/>
 
-## :blue_book: Featured projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=flutter_app_short_cut)](https://github.com/ngthailam/flutter_app_short_cut) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=flutter_password_saver)](https://github.com/ngthailam/flutter_password_saver)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=android-generic-listadapter)](https://github.com/ngthailam/android-generic-listadapter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthailam&repo=android-star-rating-view
-)](https://github.com/ngthailam/android-star-rating-view)
-
-
 ## :robot: Languages and Tools: 
 
 <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-android-os-48.png"  width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-flutter-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-github-48.png" width="50px"> &nbsp; &nbsp; <img src="https://github.com/ngthailam/ngthailam/blob/master/icons8-google-firebase-console-48.png" width="50px" />
